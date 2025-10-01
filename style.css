@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#slide{
+    width: 440px;
+    height: 250px;
+}
